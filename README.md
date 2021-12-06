@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Tourney-Matches website created with Create React App
+
+!["IndexPage"](public/docs/indexImage.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
