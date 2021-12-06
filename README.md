@@ -1,5 +1,7 @@
 # Tourney-Matches website created with Create React App
 
+"Super Smash Bros" style of Tourney Matches build with React.js.
+
 !["IndexPage"](public/docs/indexImage.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
